@@ -22,6 +22,9 @@ To run this template, ensure you have the above requirements installed. You can 
 pip install pygame PyOpenGL
 ```
 
+For easiest use, download/clone and open this project within PyCharm. The .idea file will aide in this.
+If you'd rather use another editor, simply copy / use / modify the `mainfile.py`
+
 ## Usage
 Run the script in your preferred Python environment. This will open a window displaying a red triangle rendered using OpenGL. The program is set up to handle window close events gracefully.
 
